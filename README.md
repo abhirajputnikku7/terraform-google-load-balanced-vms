@@ -20,7 +20,7 @@ You can choose whether to deploy your solution through the console directly or d
 1. Cloud Load Balancing distributes traffic to the Compute Engine Managed Instance Group (MIG), which scales the number of instances based on traffic volume.
 
 ## Documentation
-- [Architecture Diagram](https://github.com/GoogleCloudPlatform/terraform-google-load-balanced-vms/blob/main/assets/load_balanced_vms_v1.svg)
+
 
 ## Usage
 
